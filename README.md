@@ -1,4 +1,4 @@
-# UmedicSV
+# MedicalRecords
 Expediente Medico Universal El Salvador 
 
 Aplicasion Android de apollo para medicos en campañas de salud en sonas rurales.
