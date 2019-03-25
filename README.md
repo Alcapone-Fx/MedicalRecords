@@ -1,5 +1,5 @@
 # MedicalRecords
-Expediente Medico Universal El Salvador 
+Expediente Medico El Salvador 
 
 Aplicación Android de apoyo para médicos en campañas de salud en zonas rurales.
 
@@ -15,3 +15,4 @@ Integrantes.
 
 25-5286-2015 Durán Cruz, Geovani Omar
  
+ 2502552017  Navas Mendez, Felix Rene
