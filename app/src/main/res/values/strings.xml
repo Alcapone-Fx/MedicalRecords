@@ -12,4 +12,11 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="nuevo_paciente">Nuevo Paciente</string>
+    <string name="mujer">Mujer</string>
+    <string name="genero">Genero:</string>
+    <string name="hombre">Hombre</string>
+    <string name="documento">Documento:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="numero_documento">Numero Documento</string>
 </resources>
