@@ -1,7 +1,7 @@
 # MedicalRecords
 Expediente Medico Universal El Salvador 
 
-Aplicasion Android de apollo para medicos en campañas de salud en sonas rurales.
+Aplicación Android de apoyo para médicos en campañas de salud en zonas rurales.
 
 Integrantes.
 
@@ -11,5 +11,7 @@ Integrantes.
 
 25-0367-2017 Interiano Cruzz Aylwin Asael
 
-25-3407-2017 
+25-3407-2017
+
+25-5286-2015 Durán Cruz, Geovani Omar
  
