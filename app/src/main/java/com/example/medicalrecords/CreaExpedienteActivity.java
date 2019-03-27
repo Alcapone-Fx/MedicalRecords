@@ -24,8 +24,9 @@ public class CreaExpedienteActivity extends AppCompatActivity {
         buttonBack.setOnClickListener(new View.OnClickListener() {
             @Override//sobre escritura del metodo
             public void onClick(View v) {//las acciones al realizar el click
-                Intent intentBack = new Intent(CreaExpedienteActivity.this, LoginActivity.class);
+                Intent intentBack = new Intent(CreaExpedienteActivity.this, ExpedientesActivity.class);
                 startActivity(intentBack);
+
             }
         });
     }

@@ -191,8 +191,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         }
 
         // creacion de Intent para abrir el activity de la creacion de expedientes
-        Intent intentNuevoExpediente = new Intent(LoginActivity.this, CreaExpedienteActivity.class);
-        startActivity(intentNuevoExpediente);// inicio a la actividad objetivo
+        Intent intentExpedientes = new Intent(LoginActivity.this, ExpedientesActivity.class);
+        startActivity(intentExpedientes);// inicio a la actividad objetivo
     }
 
     private boolean isEmailValid(String email) {

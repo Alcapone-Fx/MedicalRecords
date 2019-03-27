@@ -19,4 +19,8 @@
     <string name="documento">Documento:</string>
     <string name="nombre">Nombre:</string>
     <string name="numero_documento">Numero Documento</string>
+    <string name="agregar_expediente">Agregar expediente</string>
+    <string name="expedientes">Expedientes</string>
+    <string name="salir">Salir</string>
+    <string name="buscar">Buscar</string>
 </resources>
